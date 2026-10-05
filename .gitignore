@@ -1,0 +1,6 @@
+.build/
+r8101-*.tar.bz2
+*.ko
+*.o
+Module.symvers
+modules.order
